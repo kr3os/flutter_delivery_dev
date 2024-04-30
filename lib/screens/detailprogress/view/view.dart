@@ -1,0 +1,1 @@
+export 'detailprogress_screen.dart';

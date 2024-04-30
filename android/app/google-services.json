@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "844561025862",
+    "project_id": "delivery-cfc1b",
+    "storage_bucket": "delivery-cfc1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844561025862:android:e777127abb4148f5aab347",
+        "android_client_info": {
+          "package_name": "com.example.delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2hX1MXBn2eMCbNRuH-aFgqX48zAffWho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
